@@ -43,6 +43,7 @@ const Details = ({singlePuppyData, rosterView, setRosterView}) => {
       </div>
       <br/>
       <button onClick={(event) => {handleClicked(event)}} > Click to go back to the Roster </button>
+      <button onClick={() => {setRosterView(true)}} > Click to go back to the Roster </button>
 
     </>
   );
