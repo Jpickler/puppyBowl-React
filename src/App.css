@@ -1,1 +1,19 @@
+.card{
+  width: 400px;
+  border:solid;
+  border-width: 3px;
+  margin: 5px;
+  justify-content: space-between;
+  display: inline-flex;
 
+}
+.internalInfo{
+  display: block;
+  justify-content: space-between;
+  margin: 5px;
+  
+
+
+
+
+}
